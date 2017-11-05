@@ -1,5 +1,3 @@
-#HTML5 - Beyond the markup - @johnallsopp
-
 ##HTML5 core concepts and syntax
 
 ###Relax! We can use HTML or XHTML syntax.
@@ -397,15 +395,3 @@ Example of a callback.
 	}
 	
 	navigation.geolocation.getCurrentPosition(showLocation);
-
-----
-
-##Resources
-http://caniuse.com/ What can I use?
-
-http://westciv.com/tools/manifestR/ - ManifestR
-
-http://westciv.com/tools2/ - Live tools
-
-https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills - HTML5 Polyfills
-
