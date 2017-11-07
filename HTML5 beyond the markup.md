@@ -187,6 +187,7 @@ The shadow dom is the sub-objects for things like video, date pickers etc. Not y
 Users often expect things like scrollbars and dropdowns the way they are used to.
 
 ### selectors API
+
 ----
 Using the concept of jQuery without actually using jQuery.
 
